@@ -1,0 +1,21 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://miladrahimi.com/</loc>
+        <lastmod>2020-03-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://miladrahimi.com/assets/img/avatar.jpg</image:loc>
+            <image:caption>Milad Rahimi</image:caption>
+            <image:title>Milad Rahimi</image:title>
+            <image:geo_location>Iran, Lorestan, Delfan</image:geo_location>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://miladrahimi.com/fa.html</loc>
+        <lastmod>2020-03-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+</urlset>
