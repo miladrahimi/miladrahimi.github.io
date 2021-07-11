@@ -32,6 +32,11 @@ main {
     padding: 5px 10px;
     text-decoration: none;
     color: black;
+    transition: .3s;
+}
+
+#apps a:hover {
+    background: #cccccc;
 }
 
 nav {
