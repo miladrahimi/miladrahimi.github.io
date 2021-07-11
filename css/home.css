@@ -1,3 +1,9 @@
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 #avatar {
     width: 80%;
     max-width: 180px;
@@ -18,10 +24,4 @@
 #socials a:hover {
     background: black;
     color: white;
-}
-
-.container {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
 }
