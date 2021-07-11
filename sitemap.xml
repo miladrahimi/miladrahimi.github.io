@@ -17,5 +17,11 @@
         <lastmod>2020-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://miladrahimi.com/assets/img/avatar.jpg</image:loc>
+            <image:caption>میلاد رحیمی</image:caption>
+            <image:title>میلاد رحیمی</image:title>
+            <image:geo_location>Iran, Lorestan, Delfan</image:geo_location>
+        </image:image>
     </url>
 </urlset>
