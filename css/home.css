@@ -26,3 +26,24 @@ main {
     background: black;
     color: white;
 }
+
+nav {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    border: solid 1px black;
+    border-radius: 50%;
+    padding: 5px 9px;
+    font-size: smaller;
+    transition: .3s;
+}
+
+nav a:hover {
+    color: black;
+    background: #e0e0e0;
+}
