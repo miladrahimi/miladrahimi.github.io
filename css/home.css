@@ -27,6 +27,13 @@ main {
     color: white;
 }
 
+#apps a {
+    border: solid 1px #cccccc;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: black;
+}
+
 nav {
     position: absolute;
     top: 1rem;
