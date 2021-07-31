@@ -25,6 +25,18 @@
         </image:image>
     </url>
     <url>
+        <loc>https://miladrahimi.com/pay.html</loc>
+        <lastmod>2021-08-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://miladrahimi.com/assets/img/avatar.jpg</image:loc>
+            <image:caption>Milad Rahimi</image:caption>
+            <image:title>Milad Rahimi</image:title>
+            <image:geo_location>Iran, Lorestan, Delfan</image:geo_location>
+        </image:image>
+    </url>
+    <url>
         <loc>https://miladrahimi.com/apps.html</loc>
         <lastmod>2021-07-11</lastmod>
         <changefreq>monthly</changefreq>
