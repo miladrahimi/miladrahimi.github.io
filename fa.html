@@ -14,14 +14,14 @@
     <link rel="canonical" href="https://miladrahimi.com/fa.html">
     <link rel="stylesheet" href="vendor/bootstrap-5.2.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="vendor/fontawesome-6.2.1/css/all.min.css">
-    <link rel="stylesheet" href="css/style.css?md5=554b694306f6f13d7da0ef9767189ab8">
+    <link rel="stylesheet" href="styles/style.css?md5=554b694306f6f13d7da0ef9767189ab8">
     <script src="vendor/google-tag.js"></script>
 </head>
 <body dir="rtl">
 
 <main class="text-center">
     <div>
-        <img src="img/milad-rahimi-small.jpg" alt="میلاد رحیمی" id="avatar">
+        <img src="images/milad-rahimi-small.jpg" alt="میلاد رحیمی" id="avatar">
     </div>
     <div class="py-3">
         <h1 class="display-4">میلاد رحیمی</h1>
@@ -69,6 +69,11 @@
 </nav>
 
 <script src="vendor/fontawesome-6.2.1/js/all.min.js"></script>
+<script>
+    if (window.location.hostname === 'realmiladrahimi.ir') {
+        document.getElementById('link-apps').setAttribute('href', 'https://apps.realmiladrahimi.ir')
+    }
+</script>
 
 </body>
 </html>

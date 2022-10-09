@@ -6,7 +6,7 @@
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>https://miladrahimi.com/assets/img/avatar.jpg</image:loc>
+            <image:loc>https://miladrahimi.com/assets/images/milad-rahimi-small.jpg</image:loc>
             <image:caption>Milad Rahimi</image:caption>
             <image:title>Milad Rahimi</image:title>
             <image:geo_location>Iran, Lorestan, Delfan</image:geo_location>
@@ -30,7 +30,7 @@
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>https://miladrahimi.com/assets/img/avatar.jpg</image:loc>
+            <image:loc>https://miladrahimi.com/assets/images/milad-rahimi-small.jpg</image:loc>
             <image:caption>میلاد رحیمی</image:caption>
             <image:title>میلاد رحیمی</image:title>
             <image:geo_location>Iran, Lorestan, Delfan</image:geo_location>
